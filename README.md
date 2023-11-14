@@ -1,7 +1,7 @@
 # Hi there, I'm Gaurav 👋
 
 - I'm a self-learnt/made developer so far.
-- You can reach me on [discord](https://discord.gg/gaurav)
+- You can reach me on [discord](https://discord.com/users/380697024120487939)
 - I'm from Gurugram (Delhi NCR), India!
 
 ## Visitors
