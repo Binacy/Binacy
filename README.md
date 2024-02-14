@@ -5,7 +5,7 @@
 - I'm from Gurugram (Delhi NCR), India!
 
 ## Visitors
-![Gaurav](https://profile-counter.glitch.me/gauravwtf/count.svg)
+![Gaurav](https://profile-counter.glitch.me/fixitgaurav/count.svg)
 
 ## 💼 Skills
 
@@ -14,5 +14,5 @@
 ## 📫 How to reach me
 
 - [Discord](https://discord.com/users/380697024120487939)
-- [Twitter](https://x.com/igauravwtf)
-- [Instagram](https://instagram.com/gauravwtf)
+- [Twitter](https://x.com/ifixitgaurav)
+- [Instagram](https://instagram.com/fixitgaurav)
