@@ -4,13 +4,6 @@
 - You can reach me on [discord](https://discord.com/users/380697024120487939)
 - I'm from Gurugram (Delhi NCR), India!
 
-## Visitors
-![Gaurav](https://profile-counter.glitch.me/fixitgaurav/count.svg)
-
-## 💼 Skills
-
-![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a) ![Js](https://img.shields.io/badge/-Js-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a) ![Html](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a) ![Css](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a) ![C](https://img.shields.io/badge/-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-
 ## 📫 How to reach me
 
 - [Discord](https://discord.com/users/380697024120487939)
