@@ -7,5 +7,5 @@
 ## 📫 How to reach me
 
 - [Discord](https://discord.com/users/380697024120487939)
-- [Twitter](https://x.com/ifixitgaurav)
-- [Instagram](https://instagram.com/fixitgaurav)
+- [Twitter](https://x.com/ibinacy)
+- [Instagram](https://instagram.com/ibinacy)
