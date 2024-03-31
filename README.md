@@ -7,5 +7,5 @@
 ## 📫 How to reach me
 
 - [Discord](https://discord.com/users/1211202988518146050)
-- [Twitter](https://x.com/iBinacy)
+- [Twitter](https://x.com/Xinacy)
 - [Instagram](https://instagram.com/ibinacy)
